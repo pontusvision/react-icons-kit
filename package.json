@@ -1,7 +1,7 @@
 {
-  "name": "react-icons-kit",
-  "version": "1.0.7",
-  "description": "React Icons Kit using various Svg Icon set",
+  "name": "react-icons-kit-allreact",
+  "version": "1.0.8",
+  "description": "Fork off React Icons Kit loosening the reactjs version",
   "main": "index.js",
   "keywords": [
     "react",
@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wmira/react-icons-kit.git"
+    "url": "git+git@github.com:pontusvision/react-icons-kit.git"
   },
   "peerDependencies": {
-    "react": "^15"
+    "react": "*"
   },
   "devDependencies": {
     "babel-core": "^6.20.0",
@@ -41,9 +41,9 @@
     "css-loader": "^0.26.1",
     "fstream": "^1.0.10",
     "node-zip": "^1.1.1",
-    "prop-types": "^15.5.8",
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4",
+    "prop-types": "*",
+    "react": "*",
+    "react-dom": "*",
     "rimraf": "^2.5.4",
     "style-loader": "^0.13.1",
     "svgfont2js": "^0.1.2",
