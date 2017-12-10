@@ -1,6 +1,6 @@
 {
   "name": "react-icons-kit-allreact",
-  "version": "1.0.9",
+  "version": "1.0.12",
   "description": "Fork off React Icons Kit loosening the reactjs version",
   "main": "index.js",
   "keywords": [
@@ -30,6 +30,7 @@
   "peerDependencies": {
     "react": "*"
   },
+  "files": ["dist/**"],
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
