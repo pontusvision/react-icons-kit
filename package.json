@@ -1,6 +1,6 @@
 {
   "name": "react-icons-kit-allreact",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Fork off React Icons Kit loosening the reactjs version",
   "main": "index.js",
   "keywords": [
@@ -31,23 +31,26 @@
     "react": "*"
   },
   "devDependencies": {
-    "babel-core": "^6.20.0",
-    "babel-loader": "^6.2.9",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
     "babel-preset-latest": "^6.16.0",
     "babel-preset-react": "^6.16.0",
     "babel-preset-stage-2": "^6.18.0",
     "cheerio": "^0.22.0",
     "cross-env": "^3.1.3",
     "css-loader": "^0.26.1",
+    "es2015": "0.0.0",
     "fstream": "^1.0.10",
     "node-zip": "^1.1.1",
     "prop-types": "*",
-    "react": "*",
+    "react": "^16.2.0",
     "react-dom": "*",
     "rimraf": "^2.5.4",
     "style-loader": "^0.13.1",
     "svgfont2js": "^0.1.2",
-    "webpack": "^2.4.1",
+    "webpack": "^2.7.0",
     "webpack-dev-server": "^2.4.2"
   },
   "dependencies": {
