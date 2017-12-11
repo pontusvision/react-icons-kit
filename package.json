@@ -1,6 +1,6 @@
 {
   "name": "react-icons-kit-allreact",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "Fork off React Icons Kit loosening the reactjs version",
   "main": "dist/index.js",
   "keywords": [
@@ -14,7 +14,9 @@
     "react-icons",
     "react-icons-kit"
   ],
-  "files": [ "./dist/*" ],
+  "files": [
+    "./dist/*"
+  ],
   "author": "Warren Mira <warrenmira@gmail.com>",
   "license": "MIT",
   "scripts": {
