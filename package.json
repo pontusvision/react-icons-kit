@@ -1,6 +1,6 @@
 {
   "name": "react-icons-kit-allreact",
-  "version": "1.0.13",
+  "version": "1.0.17",
   "description": "Fork off React Icons Kit loosening the reactjs version",
   "main": "dist/index.js",
   "keywords": [
@@ -31,7 +31,10 @@
     "react": "*"
   },
   "files": [
-    "dist/**"
+    "dist/entypo/**", "dist/horizontalCenter.js", "dist/iconic/**", "dist/Icon.playground.js",
+    "dist/index.js", "dist/linea/**", "dist/metrize/**", "dist/oct/**", "dist/README.md", "dist/SvgIcon.js",
+    "dist/fa/**", "dist/icomoon/**", "dist/Icon.js", "dist/ikons/**", "dist/ionicons/**", "dist/md/**",      
+    "dist/noto_emoji_regular/**", "dist/package.json", "dist/site/**", "dist/typicons/**"
   ],
   "devDependencies": {
     "babel-cli": "^6.26.0",
