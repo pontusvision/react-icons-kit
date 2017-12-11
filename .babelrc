@@ -1,4 +1,4 @@
 
 {
-    "presets": [ 'babel-preset-es2015',  'react', 'babel-preset-stage-2' ]
+    "presets": [ 'es2015',  'react', 'stage-2' ]
 }
