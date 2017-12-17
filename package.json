@@ -1,6 +1,6 @@
 {
   "name": "react-icons-kit-allreact",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Fork off React Icons Kit loosening the reactjs version",
   "main": "index.js",
   "keywords": [
@@ -41,7 +41,7 @@
     "css-loader": "^0.26.1",
     "fstream": "^1.0.10",
     "node-zip": "^1.1.1",
-    "prop-types": "*",
+    "prop-types": "^15.6.0",
     "react": "*",
     "react-dom": "*",
     "rimraf": "^2.5.4",
@@ -51,7 +51,6 @@
     "webpack-dev-server": "^2.4.2"
   },
   "dependencies": {
-    "prop-types": "^15.5.8",
     "camel-case": "^3.0.0"
   }
 }
